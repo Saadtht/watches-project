@@ -25,7 +25,7 @@ Le design est optimisé pour tous les appareils (mobile, tablette, desktop) avec
 ---
 
 ## Installation et lancement
-1. Cloner le repo :  
+Cloner le repo :  
 ```bash
 git clone https://github.com/TON_USERNAME/watches-website.git
 cd watches-website
@@ -35,4 +35,7 @@ cd watches-website
 /css              -> fichiers CSS
 /js               -> fichiers JavaScript
 /images           -> images utilisées (preview.png inclus)
+
+---
+
 
