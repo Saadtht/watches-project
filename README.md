@@ -1,13 +1,30 @@
 # Responsive Watches Website ⌚
-## [Watch it on youtube](https://youtu.be/QPxYdbbCjhQ)
-### Responsive Watches Website ⌚
 
-- Responsive Watches Website Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+## Aperçu
+Un site web **responsive** pour une boutique de montres, développé avec **HTML, CSS et JavaScript**.  
+Le design est optimisé pour tous les appareils (mobile, tablette, desktop) avec une interface **moderne et agréable**.
 
-Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
+![Preview du site](./preview.png)
 
-![preview img](/preview.png)
+---
+
+## Fonctionnalités
+- Design **responsive** pour tous les écrans  
+- **Dark & Light Mode**  
+- **Smooth scrolling** entre les sections  
+- Développement **Mobile First**, puis pour desktop  
+- Interface **moderne et intuitive**
+
+---
+
+## Technologies utilisées
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)  
+- JavaScript pur  
+
+---
+
+## Installation et lancement
+1. Cloner le repo :  
+```bash
+git clone https://github.com/TON_USERNAME/watches-website.git
