@@ -28,3 +28,11 @@ Le design est optimisé pour tous les appareils (mobile, tablette, desktop) avec
 1. Cloner le repo :  
 ```bash
 git clone https://github.com/TON_USERNAME/watches-website.git
+cd watches-website
+
+## Structure du projet
+/index.html       -> page principale
+/css              -> fichiers CSS
+/js               -> fichiers JavaScript
+/images           -> images utilisées (preview.png inclus)
+
